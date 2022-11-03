@@ -1,6 +1,7 @@
 # Resources
 
 ## Introduction
+Feel free to fork this repo and check off the items as you wish (if you want help forking the repo see [blah](https://github.com/sprintup/blah)):
 - [ ] [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [ ] [Ideas in AI](https://ideasai.com/)
 - [ ] [Road to Artificial General Intelligence](https://maraoz.com/2022/10/31/agi-roadmap/?utm_source=tldrnewsletter)
@@ -9,7 +10,7 @@
 - [ ] [What technology is “cutting edge” in 2022?](https://news.ycombinator.com/item?id=30053761)
 - [ ] [Difference between AI and Machine Learning](https://azure.microsoft.com/en-us/solutions/ai/artificial-intelligence-vs-machine-learning/#introduction)
 - [ ] [Machine Learning + | Machine Learning](https://www.machinelearningplus.com/category/machine-learning/)
-- [ ] https://medium.com/swlh/how-to-create-a-successful-artificial-intelligence-strategy-44705c588e62 
+- [ ] [How To Create A Successful Artificial Intelligence Strategy](https://medium.com/swlh/how-to-create-a-successful-artificial-intelligence-strategy-44705c588e62)
 - [ ] [Ethics in AI](https://plato.stanford.edu/entries/ethics-ai/)
 - [ ] [How To Create A Successful Artificial Intelligence Strategy](https://medium.com/swlh/how-to-create-a-successful-artificial-intelligence-strategy-44705c588e62)
 - [ ] [MIT AI Blog](https://news.mit.edu/topic/artificial-intelligence2)
