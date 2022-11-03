@@ -1,7 +1,9 @@
 # Resources
 
 ## Introduction
-Feel free to fork this repo and check off the items as you wish (if you want help forking the repo see [blah](https://github.com/sprintup/blah)):
+Feel free to fork this repo and check off the items as you wish. If you want help forking the repo see [blah](https://github.com/sprintup/blah).
+To contribute, please pull out an issue. 
+
 - [ ] [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [ ] [Ideas in AI](https://ideasai.com/)
 - [ ] [Road to Artificial General Intelligence](https://maraoz.com/2022/10/31/agi-roadmap/?utm_source=tldrnewsletter)
@@ -28,6 +30,7 @@ Feel free to fork this repo and check off the items as you wish (if you want hel
 - [ ] [AI for the Next Era](https://greylock.com/greymatter/sam-altman-ai-for-the-next-era/)
 - [ ] [Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/?utm_source=tldrnewsletter)
 - [ ] [Deep Mind Blog](https://www.deepmind.com/blog)
+- [ ] [A Deep Learning Approach to Antibiotic Discovery](https://www.cell.com/cell/pdf/S0092-8674(20)30102-1.pdf)
 
 ### Beginner
 - [ ] [Dive into Machine Learning](https://github.com/dive-into-machine-learning/dive-into-machine-learning)
@@ -36,18 +39,19 @@ Feel free to fork this repo and check off the items as you wish (if you want hel
 - [ ] [Python Readme](https://github.com/sprintup/AI/blob/main/python.md)
 
 #### Example Projects 
+- [ ] [Self Parking Cars in 500 Lines of Code](https://trekhleb.dev/blog/2021/self-parking-car-evolution/?ref=devawesome.io)
+- [ ] [Line art Repo](https://github.com/vijishmadhavan/ArtLine)
+- [ ] [An A.I.-Generated Picture Won an Art Prize. Artists Aren’t Happy.](https://www.nytimes.com/2022/09/02/technology/ai-artificial-intelligence-artists.html)
 - [ ] [Chess Engine](https://benblack769.github.io/posts/projects/hybrid_chess_engine/)
 - [ ] [Stock prediction AI](https://github.com/borisbanushev/stockpredictionai)
-- [ ] [Line art Repo](https://github.com/vijishmadhavan/ArtLine)
 - [ ] [Top 47 Machine Learning Projects for 2022 [Source Code Included]](https://data-flair.training/blogs/machine-learning-project-ideas/)
-- [ ] [Self Parking Cars in 500 Lines of Code](https://trekhleb.dev/blog/2021/self-parking-car-evolution/?ref=devawesome.io)
 - [ ] [Automatic Youtube subtitle generation](https://github.com/m1guelpf/yt-whisper)
 
 ### Intermediate
+- [ ] [Hugging Face](https://huggingface.co/)
 - [ ] [Machine Learning Mastery - get started](https://machinelearningmastery.com/start-here/#getstarted)
 - [ ] [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [ ] [Data Engineering Cookbook](https://github.com/andkret/Cookbook)
-- [ ] [Stable Diffusion](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/?utm_source=tldrnewsletter)
 
 #### Into Production
 - [ ] [Deep Learning in Production](https://github.com/ahkarami/Deep-Learning-in-Production)
@@ -58,7 +62,7 @@ Feel free to fork this repo and check off the items as you wish (if you want hel
 - [ ] [DevSecOps](https://github.com/sottlmarek/DevSecOps?utm_source=tldrnewsletter)
 
 ### Advanced
-- [ ] [Hugging Face](https://huggingface.co/)
+- [ ] [Stable Diffusion](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/?utm_source=tldrnewsletter)
 - [ ] [GPU Puzzles](https://github.com/srush/GPU-Puzzles)
 - [ ] [Introduction to streaming for data scientists](https://huyenchip.com/2022/08/03/stream-processing-for-data-scientists.html)
 - [ ] [MLOPs Primer](https://github.com/dair-ai/MLOPs-Primer?utm_source=tldrnewsletter)
@@ -83,6 +87,7 @@ Feel free to fork this repo and check off the items as you wish (if you want hel
 - [ ] [Eat TensorFlow2 in 30 days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
 - [ ] [A demo of K-Means clustering on the handwritten digits data](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html#sphx-glr-auto-examples-cluster-plot-kmeans-digits-py)
 - [ ] [MLExpert](https://mlexpert.io/)
+- [ ] [SEC595: Applied Data Science and Machine Learning for Cybersecurity Professionals](https://www.sans.org/cyber-security-courses/applied-data-science-machine-learning/)
 
 ## Tools
 - [ ] [Scikit learn](https://scikit-learn.org/stable/user_guide.html)
@@ -110,5 +115,6 @@ Feel free to fork this repo and check off the items as you wish (if you want hel
 - [ ] [Siri](https://developer.apple.com/siri/)
 - [ ] [Alexa](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/dev-tools-skill-management-api)
 - [ ] [Neuralink](https://neuralink.com/)
+- [ ] [Google AI](https://ai.google/)
 
 ***Many Thanks to TLDR and all the contributions from other sources***
