@@ -32,7 +32,7 @@
 - [ ] [Dive into Machine Learning](https://github.com/dive-into-machine-learning/dive-into-machine-learning)
 - [ ] [IBM Glossary of Terms](https://www.ibm.com/cloud/learn/artificial-intelligence)
 - [ ] [CNN Explainer](https://github.com/poloclub/cnn-explainer)
-- [ ] Python - see python file in this repo
+- [ ] [Python Readme](https://github.com/sprintup/AI/blob/main/python.md)
 
 #### Example Projects 
 - [ ] [Chess Engine](https://benblack769.github.io/posts/projects/hybrid_chess_engine/)
