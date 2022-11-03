@@ -1,0 +1,52 @@
+# Intro
+- [ ] [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
+- [ ] [The Python Tutorial](https://docs.python.org/3/tutorial/)
+- [ ] [A Byte of Python](https://python.swaroopch.com/)
+
+## Here are some websites that have an active session of python running.
+- https://www.onlinegdb.com/online_python_interpreter
+- https://www.python.org/shell/
+- https://repl.it/repls/SmoothOvalOutcome
+
+## Additional Resources:
+- https://learnpythonthehardway.org/
+- https://docs.python.org/3/
+- https://docs.python.org/3/tutorial/
+- https://docs.python.org/3/library/intro.html
+- https://docs.python.org/3/contents.html
+- https://docs.python.org/3/library/index.html
+- https://docs.python.org/3/library/functions.html
+- https://www.datacamp.com/
+- https://wiki.python.org/moin/BeginnersGuide
+- https://opensource.com/tags/python
+- https://www.anaconda.com/products/distribution
+- https://docs.python.org/3/library/statistics.html
+- https://github.com/vinta/awesome-python
+- https://learnpythonthehardway.org/
+- https://www.djangoproject.com/
+- http://blog.luisrei.com/articles/flaskrest.html
+- https://pynative.com/python-mysql-database-connection/
+- https://computer.howstuffworks.com/python.htm
+- https://www.mathworks.com/help/matlab/index.html?s_tid=CRUX_lftnav
+- https://github.com/huangsam/ultimate-pythonS
+- https://realpython.com/
+- https://python-textbok.readthedocs.io/en/1.0/index.html
+- https://docs.python-guide.org/intro/learning/
+- https://app.pluralsight.com/paths/skills/core-python
+- https://www.pythoncheatsheet.org/
+- https://jakevdp.github.io/PythonDataScienceHandbook/01.01-help-and-documentation.html
+- https://www.geeksforgeeks.org/python-arrays/
+- https://www.w3schools.com/python/default.asp
+- https://medium.mybridge.co/19-free-ebooks-to-learn-programming-with-python-8f6f0ad4a7f8
+- https://www.tutorialspoint.com/python_data_science/index.htm
+- https://www.programiz.com/python-programming
+- https://www.learnpython.org/
+- https://www.tutorialspoint.com/python3/python_tutorial.pdf
+- https://www.javatpoint.com/python-tutorial
+- https://data-flair.training/blogs/python-project-ideas/
+- https://automatetheboringstuff.com/
+- https://learnpython.org/
+- https://realpython.com/
+- https://www.reddit.com/r/learnpython/wiki/index/
+- https://www.freecodecamp.org/learn/
+- https://sorse.github.io/blog/embedding-a-jupyter-notebook/
